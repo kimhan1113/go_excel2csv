@@ -1,3 +1,3 @@
-# go_excel2csv
+# go_xlsx2csv
 
 ## makes each csv files from xlsx 
